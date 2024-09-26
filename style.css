@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(225, 156, 175);
+}
+
+h1 {
+    color: rgb(119, 56, 79);
+    text-align: center;
+    font-family: "Rubik Mono One", monospace;
+    font-size: 64px;
+}
+
+h3 {
+    color: rgb(119, 56, 79);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.rosa{
+    background-image: url(images/fondito.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 8px;
+}
+
+.Image {
+    text-align: center;
+    padding: 8px;
+}
+
+.description {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.anio {
+    color: rgb(119, 56, 79);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    font-size: 28px;
+}
+
+.info {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.information {
+    background-color: rgb(119, 56, 79, 32%);
+    text-align: center;
+    font-size: 24px;
+}
+
+.link {
+    font-size: 20px;
+    background-color: rgb(210, 148, 171);
+}
+
+.more {
+    color: rgb(119, 56, 79);
+}
